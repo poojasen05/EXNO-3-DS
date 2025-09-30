@@ -222,7 +222,7 @@ plt.show()
 ```
 <img width="567" height="416" alt="image" src="https://github.com/user-attachments/assets/a7df6c0b-243b-4022-a9e6-dea64ccfc1de" />
 
-```
+
 
 
 
